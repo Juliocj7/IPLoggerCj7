@@ -29,7 +29,7 @@
 ![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
 
 ## IPLoggerCj7 :
-* Herramienta que captura la IP de la víctima ( además de varias características más) mediante una plantilla de Google Drive o una plantilla deseada.
+* Herramienta que captura la IP de la víctima ( además de varias características más ) mediante una plantilla de Google Drive o de cualquier plantilla deseada.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu /sdcard.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
