@@ -15,11 +15,19 @@
 </details>
 
 ## Menú Principal :
+![Screenshot_20210914-131218_Termux](https://user-images.githubusercontent.com/81049859/133305897-4a9e21d9-8264-4e3b-90c1-7fb11d0cae96.png)
 
 ## Server :
+![Screenshot_20210914-131730_Termux](https://user-images.githubusercontent.com/81049859/133305945-1a8448ea-1b79-43b2-8096-131a801e6c38.png)
 
 ## Personalización :
+![Screenshot_20210914-131546_Termux](https://user-images.githubusercontent.com/81049859/133306072-f24e6638-54a9-418d-a815-00fc87e63f7d.png)
 
+## IP Logger Google Drive :
+![Screenshot_20210914-131635_Termux](https://user-images.githubusercontent.com/81049859/133306261-95f44a7e-fd37-4dfa-b650-45a1f6b5855d.png)
+
+## IP Logger Personalizado :
+![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
 
 ## Phish_GPS :
 ![Cj7_gpsweb](https://user-images.githubusercontent.co
