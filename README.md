@@ -5,12 +5,11 @@
 
 
 <details>
-<summary> Qué es DarkPhishCj7 ? </summary>
+<summary> ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
 
- - DarkPhishCj7 es mi herramienta privada de phishing 100% funcional.
- - Inicio de creación >> 10 de agosto del 2021.
- - Fin de la creación >> 5 de septiembre del 2021.
+ - Puedes mirar... pero NO !!! copies NADA !!!
+ - Inmundo animal.
 
 </details>
 
@@ -29,9 +28,7 @@
 ## IP Logger Personalizado :
 ![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
 
-## Phish_GPS :
-![Cj7_gpsweb](https://user-images.githubusercontent.co
-## DarkPhishCj7 :
+## IPLoggerCj7 :
 * Increíble herramienta **Phishing** con múltiples plantillas actualizadas.
 * Más de **10 herramientas** avanzadas en el arte del phishing.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
