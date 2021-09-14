@@ -31,7 +31,7 @@
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características más ) mediante una plantilla de Google Drive o de **cualquier plantilla** deseada.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
-* Obtén las **credenciales** como respaldo en tu /sdcard.
+* Obtén la **información** como respaldo en tu /sdcard.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
