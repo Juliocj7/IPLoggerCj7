@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-⍣᭕ᬁ᭖𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7᭖᭕ᬁ⍣-svg?style=flat&color=FF0000&logo=github"></a></h1>
+<h1 align="center"><a href="https://github.com/Juliocj7"><img title="Author" src="https://img.shields.io/badge/Author-𝙹𝚞𝚕𝚒𝚘 𝙲𝚓7-svg?style=flat&color=FF0000&logo=github"></a></h1>
 
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/JulioCj7.gif" width="400" height="135"/> </p>
@@ -29,7 +29,7 @@
 ![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
 
 ## IPLoggerCj7 :
-* Herramientas que captura la IP de la víctima ( además de varias características más) mediante una plantilla de Google Drive o una plantilla deseada.
+* Herramienta que captura la IP de la víctima ( además de varias características más) mediante una plantilla de Google Drive o una plantilla deseada.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén las **credenciales** como respaldo en tu /sdcard.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
