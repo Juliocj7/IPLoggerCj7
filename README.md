@@ -29,18 +29,11 @@
 ![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
 
 ## IPLoggerCj7 :
-* Increíble herramienta **Phishing** con múltiples plantillas actualizadas.
-* Más de **10 herramientas** avanzadas en el arte del phishing.
+* Herramientas que captura la IP de la víctima ( además de varias características más) mediante una plantilla de Google Drive o una plantilla deseada.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
-* Obtén las **credenciales** como respaldo en tu correo electrónico.
+* Obtén las **credenciales** como respaldo en tu /sdcard.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
-
-## Sintaxis :
-- [x] *bash StartCj7 : Iniciar the best tool, DarkPhishCj7.*
-- [x] *bash StartCj7 -h, --help : Iniciar menú de ayuda.*
-- [x] *bash StartCj7 -ip : Obtén información de una IP.*
-- [x] *bash StartCj7 -phone : Obtén información de un número telefónico.*
 
 ## Instalación :
 
