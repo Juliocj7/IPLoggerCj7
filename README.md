@@ -5,11 +5,11 @@
 
 
 <details>
-<summary> ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
+<summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
 
- - Puedes mirar... pero porfavor NO !!! copies NADA !!!
- - Inmundo animal.
+ - 𝑃𝑢𝑒𝑑𝑒𝑠 𝑚𝑖𝑟𝑎𝑟... 𝑝𝑒𝑟𝑜 𝑝𝑜𝑟𝑓𝑎𝑣𝑜𝑟 𝑁𝑂 !!! 𝑐𝑜𝑝𝑖𝑒𝑠 𝑁𝐴𝐷𝐴 !!!
+ - 𝐼𝑛𝑚𝑢𝑛𝑑𝑜 𝑎𝑛𝑖𝑚𝑎𝑙.
 
 </details>
 
