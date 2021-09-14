@@ -45,13 +45,13 @@ https://github.com/Juliocj7/UtilsCj7
 
 * `apt update && apt upgrade -y`
 
-* `git clone https://github.com/Juliocj7/DarkPhishCj7`
+* `git clone https://github.com/Juliocj7/IPLoggerCj7`
 
-* `cd DarkPhishCj7`
+* `cd IPLoggerCj7`
 
 * `chmod +x *`
 
-* `bash StartCj7`
+* `bash IPLoggerCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
