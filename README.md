@@ -8,7 +8,7 @@
 <summary> ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
 
- - Puedes mirar... pero NO !!! copies NADA !!!
+ - Puedes mirar... pero porfavor NO !!! copies NADA !!!
  - Inmundo animal.
 
 </details>
