@@ -22,9 +22,6 @@
 ## Personalización :
 ![Screenshot_20210914-131546_Termux](https://user-images.githubusercontent.com/81049859/133306072-f24e6638-54a9-418d-a815-00fc87e63f7d.png)
 
-## IP Logger Google Drive :
-![Screenshot_20210914-131635_Termux](https://user-images.githubusercontent.com/81049859/133306261-95f44a7e-fd37-4dfa-b650-45a1f6b5855d.png)
-
 ## IP Logger Personalizado :
 ![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
 
