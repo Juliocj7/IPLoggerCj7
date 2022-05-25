@@ -23,13 +23,16 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20210915-221735_Termux](https://user-images.githubusercontent.com/81049859/133538591-4488e773-985d-441a-9be9-e7b22d8abd09.png)
+![Screenshot_20220525-174101_Termux](https://user-images.githubusercontent.com/81049859/170373411-ad3d950b-91e5-4997-b938-7b36d37b1f19.png)
 
-## Server :
-![Screenshot_20210929-071738_Termux](https://user-images.githubusercontent.com/81049859/135259307-2333788f-a82a-4820-b549-f41fd5f4a5ee.png)
+
+## Servidores :
+![Screenshot_20220525-163336_Termux](https://user-images.githubusercontent.com/81049859/170373484-701343da-e421-4a71-b498-4b6b6fdb1b15.png)
+
 
 ## Personalización :
-![Screenshot_20210914-131546_Termux](https://user-images.githubusercontent.com/81049859/133306072-f24e6638-54a9-418d-a815-00fc87e63f7d.png)
+![Screenshot_20220525-162542_Termux](https://user-images.githubusercontent.com/81049859/170373518-69bb00de-fcf6-4c1e-8001-87d39a0df736.png)
+
 
 ## IP Logger :
 ![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
