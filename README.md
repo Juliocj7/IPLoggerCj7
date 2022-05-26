@@ -34,8 +34,10 @@
 ![Screenshot_20220525-162542_Termux](https://user-images.githubusercontent.com/81049859/170373518-69bb00de-fcf6-4c1e-8001-87d39a0df736.png)
 
 
-## IP Logger :
-![Screenshot_20210914-132349_Termux](https://user-images.githubusercontent.com/81049859/133306281-b2371e27-c33a-4c8e-bf08-d00edbf14df8.png)
+|IP Logger|IP Logger|
+|---------|---------|
+|![Screenshot_20220525-231624_Termux](https://user-images.githubusercontent.com/81049859/170410381-41082580-d287-41d1-a866-719e31b80629.png)|![Screenshot_20220525-232750_Termux](https://user-images.githubusercontent.com/81049859/170410394-809a5ede-58bf-4a76-8b89-8b77ed8b6ade.png)|
+
 
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de **cualquier plantilla** deseada.
