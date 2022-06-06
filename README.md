@@ -13,7 +13,6 @@
 
 <p align="center"><img src="https://github.com/Juliocj7/Juliocj7/blob/main/InicioCj72.gif" width="350" height="110"/> </p>
 
- 
 <details>
 <summary>  ⸸𝕵𝖚𝖑𝖎𝖔𖤐𝖈𝖏7⸸ </summary>
 <br>
@@ -25,19 +24,15 @@
 ## Menú Principal :
 ![Screenshot_20220525-174101_Termux](https://user-images.githubusercontent.com/81049859/170373411-ad3d950b-91e5-4997-b938-7b36d37b1f19.png)
 
-
 ## Servidores :
 ![Screenshot_20220525-163336_Termux](https://user-images.githubusercontent.com/81049859/170373484-701343da-e421-4a71-b498-4b6b6fdb1b15.png)
-
 
 ## Personalización :
 ![Screenshot_20220525-162542_Termux](https://user-images.githubusercontent.com/81049859/170373518-69bb00de-fcf6-4c1e-8001-87d39a0df736.png)
 
-
 |IP Logger|IP Logger|
 |---------|---------|
 |![Screenshot_20220525-231624_Termux](https://user-images.githubusercontent.com/81049859/170410381-41082580-d287-41d1-a866-719e31b80629.png)|![Screenshot_20220525-232750_Termux](https://user-images.githubusercontent.com/81049859/170410394-809a5ede-58bf-4a76-8b89-8b77ed8b6ade.png)|
-
 
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de **cualquier plantilla** deseada.
@@ -55,8 +50,9 @@
 https://github.com/Juliocj7/UtilsCj7
 ~~~
 
-* `apt update && apt upgrade -y`
-
+```bash
+  yes|pkg update && pkg upgrade
+```
 * `git clone https://github.com/Juliocj7/IPLoggerCj7`
 
 * `cd IPLoggerCj7`
