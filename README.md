@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220525-174101_Termux](https://user-images.githubusercontent.com/81049859/170373411-ad3d950b-91e5-4997-b938-7b36d37b1f19.png)
+![Screenshot_20221229-091029_Termux](https://user-images.githubusercontent.com/81049859/209955711-a9d4e5da-f5bb-4208-9fd2-09c30fbc7002.png)
 
 ## Servidores :
 ![Screenshot_20220525-163336_Termux](https://user-images.githubusercontent.com/81049859/170373484-701343da-e421-4a71-b498-4b6b6fdb1b15.png)
