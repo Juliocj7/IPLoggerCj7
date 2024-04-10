@@ -31,7 +31,7 @@
 
 |Test 1|Test 2|
 |---------|---------|
-|![1000328700](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/76b3bd92-beae-4906-bf89-547d591bda30)|![1000328759](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/546defac-897a-4fa3-8f2f-bd8f026b519d)|
+|![1000328700](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/76b3bd92-beae-4906-bf89-547d591bda30)|![1000328766](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/b90a2777-4e99-43dc-b1c2-88bc71182483)|
 
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de **cualquier plantilla** deseada.
