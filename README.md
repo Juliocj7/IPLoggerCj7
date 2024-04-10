@@ -23,17 +23,15 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221229-091029_Termux](https://user-images.githubusercontent.com/81049859/209955711-a9d4e5da-f5bb-4208-9fd2-09c30fbc7002.png)
+![1000328690](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/711eb714-84c5-4695-a63d-138d216bfacd)
 
-## Servidores :
-![Screenshot_20220525-163336_Termux](https://user-images.githubusercontent.com/81049859/170373484-701343da-e421-4a71-b498-4b6b6fdb1b15.png)
-
-## Personalización :
-![Screenshot_20220525-162542_Termux](https://user-images.githubusercontent.com/81049859/170373518-69bb00de-fcf6-4c1e-8001-87d39a0df736.png)
-
-|IP Logger|IP Logger|
+|Servers|Masking|
 |---------|---------|
-|![Screenshot_20220525-231624_Termux](https://user-images.githubusercontent.com/81049859/170410381-41082580-d287-41d1-a866-719e31b80629.png)|![Screenshot_20220525-232750_Termux](https://user-images.githubusercontent.com/81049859/170410394-809a5ede-58bf-4a76-8b89-8b77ed8b6ade.png)|
+|![1000328693](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/eb001127-39c2-4631-bd41-1f31c4195d22)|![1000328699](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/6efc0447-e2a6-4a34-998d-942e1e4826ee)|
+
+|Test 1|Test 2|
+|---------|---------|
+|![1000328700](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/76b3bd92-beae-4906-bf89-547d591bda30)|![1000328701](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/34999792-06fe-4401-add5-24935f255395)|
 
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de **cualquier plantilla** deseada.
