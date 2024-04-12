@@ -25,6 +25,19 @@
 ## Menú Principal :
 ![1000328690](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/711eb714-84c5-4695-a63d-138d216bfacd)
 
+<div align="justify">
+  <details align="center">
+    <summary> 𝙳𝚒𝚜𝚌𝚕𝚊𝚒𝚖𝚎𝚛 </summary>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+    <br>
+    <samp>
+Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con fines educativos. Aquí se demuestra cómo funciona el phishing. Si alguien quiere obtener acceso no autorizado a las credenciales o a alguna característica del dispositivo de alguien, puede intentarlo bajo su propio riesgo. Usted tiene sus propias responsabilidades y es responsable de cualquier daño o violación de las leyes por parte de esta herramienta. ¡El autor no es responsable del mal uso de IPLoggerCj7!
+    </samp>
+    <br>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+  </details>
+</div>
+
 |Servers|Masking|
 |---------|---------|
 |![1000328693](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/eb001127-39c2-4631-bd41-1f31c4195d22)|![1000328699](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/6efc0447-e2a6-4a34-998d-942e1e4826ee)|
@@ -42,16 +55,13 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * `git clone https://github.com/Juliocj7/IPLoggerCj7`
 
 * `cd IPLoggerCj7`
