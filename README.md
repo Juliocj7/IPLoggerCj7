@@ -68,7 +68,7 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de **cualquier plantilla** deseada.
-* 6 **servidores** disponibles (inLAN u outLAN).
+* 6 **servidores** disponibles (inLAN y outLAN).
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
 * Obtén la **información** como respaldo en tu /sdcard.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
