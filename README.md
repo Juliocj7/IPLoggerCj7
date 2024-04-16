@@ -78,17 +78,18 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/IPLoggerCj7`
-
-* `cd IPLoggerCj7`
-
-* `chmod +x *`
-
-* `bash IPLoggerCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/IPLoggerCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd IPLoggerCj7 && chmod +x * && ./IPLoggerCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
