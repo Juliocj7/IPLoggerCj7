@@ -43,7 +43,7 @@ ______________________________________________________
 </div>
 
 ## Menú Principal :
-![1000328690](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/711eb714-84c5-4695-a63d-138d216bfacd)
+![1000348005](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/e1cde56b-4b0a-4b36-b7e6-ca89575aad47)
 
 <div align="justify">
   <details align="center">
@@ -58,18 +58,16 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
   </details>
 </div>
 
+![1000348006](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/b9dd5aea-9c4f-4b4c-b0d0-4a28e420aa54)
+
+
 |Servers|Masking|
 |---------|---------|
-|![1000328693](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/eb001127-39c2-4631-bd41-1f31c4195d22)|![1000328699](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/6efc0447-e2a6-4a34-998d-942e1e4826ee)|
-
-|Test 1|Test 2|
-|---------|---------|
-|![1000328700](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/76b3bd92-beae-4906-bf89-547d591bda30)|![1000328766](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/b90a2777-4e99-43dc-b1c2-88bc71182483)|
+|![1000348008](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/b975f9d3-295a-4665-b37e-041485d31cb5)|![1000348010](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/bd3313ab-84c9-4c78-a81d-c02e81f2c0c9)|
 
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de cualquier otra deseada.
 * Personaliza **al máximo** enlaces para una mejor ingeniería social.
-* Obtén la **información** como respaldo en tu /sdcard.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > 𝙱𝚢: ` ⍣᭕ᬁ᭖𝙹𝚞𝚕𝚒𝚘𖤐𝙲𝚓7᭖᭕ᬁ⍣ `
 
