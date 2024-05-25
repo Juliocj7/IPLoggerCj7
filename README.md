@@ -58,12 +58,11 @@ Descargo de responsabilidad legal: Esta herramienta está desarrollada sólo con
   </details>
 </div>
 
-![1000348006](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/b9dd5aea-9c4f-4b4c-b0d0-4a28e420aa54)
-
+![1000351320](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/24c111a9-55be-4a71-8ced-c4d1dfe9d0e0)
 
 |Servers|Masking|
 |---------|---------|
-|![1000348008](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/b975f9d3-295a-4665-b37e-041485d31cb5)|![1000348010](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/bd3313ab-84c9-4c78-a81d-c02e81f2c0c9)|
+|![1000351321](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/138ceb20-77f6-4b86-ab53-b890ef2185dd)|![1000351325](https://github.com/Juliocj7/IPLoggerCj7/assets/81049859/6ee84cc1-e1f5-45e5-ab81-c875b4ae6106)|
 
 ## IPLoggerCj7 :
 * Herramienta que captura la IP de la víctima ( además de varias características ) mediante una plantilla de Google Drive o de cualquier otra deseada.
